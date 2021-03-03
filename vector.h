@@ -23,8 +23,8 @@
 #include "exceptdef.h"
 
 /*第72行noexcept没有完全理解，第82行萃取技术，第85行，第104行，第109、110行
-第176行，第332行、第361行、第394行,第476行，第821行
-
+第176行，第332行、第361行、第394行,第476行，第821行。
+这个vector实现的很好，注释只能初步明白，后续在博客深入学习https://blog.csdn.net/meixingshi/category_10846333.html
 */
 
 namespace mystl
